@@ -5,7 +5,7 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Publications 
-2024.  "The division of labour between the Basque articles in the indefinite domain." *Fontes Linguae Vasconum* 137. 39-67.
+2024. "The division of labour between the Basque articles in the indefinite domain." *Fontes Linguae Vasconum* 137. 39-67.
 [Project 1 Title](/sample_page)
 
 
