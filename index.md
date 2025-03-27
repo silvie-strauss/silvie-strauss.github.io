@@ -1,5 +1,6 @@
-## Portfolio
-
+## About
+I am a fourth-year PhD student at the University of Leipzig.
+I am interested in language contact, typology, historical linguistics, morphosyntax (especially anything that has to do with argument structure) as well as the sociolinguistics of minority languages.
 ---
 
 ### Category Name 1 
