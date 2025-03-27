@@ -1,4 +1,5 @@
 ## About
+<img src="images/Masterküken.jpg?raw=true"/>
 I am a fourth-year PhD student at the University of Leipzig. I am interested in language contact, typology, historical linguistics, morphosyntax (especially anything that has to do with argument structure) as well as the sociolinguistics of minority languages.\
 Although I am very much interested in the diversity of language structures all over the world, I myself have so far mostly focussed on Basque and (Eastern) Armenian.
 
