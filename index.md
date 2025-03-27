@@ -5,8 +5,8 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Publications 
-Submitted. "Structural and semantic factors in the belief-intent alternation in Basque." [\[pdf\]](/pdf/belief-intent.pdf)\
-2024\. "The division of labour between the Basque articles in the indefinite domain." *Fontes Linguae Vasconum* 137. 39-67.
+- Submitted. "Structural and semantic factors in the belief-intent alternation in Basque." [\[pdf\]](/pdf/belief-intent.pdf)\
+- 2024\. "The division of labour between the Basque articles in the indefinite domain." *Fontes Linguae Vasconum* 137. 39-67.
 [\[pdf\]](https://revistas.navarra.es/index.php/FLV/article/view/3118/2819)
 
 
