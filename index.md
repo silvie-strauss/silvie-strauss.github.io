@@ -18,7 +18,8 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Manuscripts  
-- 2021\. *Differential Argument Marking. With a Special Focus on Differential Object Marking in Eastern Armenian.* MA thesis.
+- 2021\. *Differential Argument Marking. With a Special Focus on Differential Object Marking in Eastern Armenian.* MA thesis. [\[pdf\]](/pdf/DOM-Eastern-Armenian.pdf)
+- 2018\. *Serielle Verbkonstruktionen im Ostarmenischen.* BA thesis. [\[pdf\]](/pdf/SVC_Ostarmenisch.pdf)
 
 
 ---
