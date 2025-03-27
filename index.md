@@ -5,7 +5,7 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Publications 
-- Submitted. "Structural and semantic factors in the belief-intent alternation in Basque." [\[pdf\]](/pdf/belief-intent.pdf)
+- Submitted. "Structural and semantic factors in the *belief-intent* alternation in Basque." [\[pdf\]](/pdf/belief-intent.pdf)
 - 2024\. "The division of labour between the Basque articles in the indefinite domain." *Fontes Linguae Vasconum* 137. 39-67.
 [\[pdf\]](https://revistas.navarra.es/index.php/FLV/article/view/3118/2819)
 
@@ -13,7 +13,10 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Presentations  
-
+- 2024\. "Interacting semantic preferences? The *belief-intent* alternation in Basque." SLE 57, Helsinki.
+- 2024\. "From knowledge to possibility: structural correlates of semantic change." *Emerging Topics in Typology*, Stockholm.
+- 2023\. "Paradigmatic redundancy in the complement system of Basque." ICHL 26, Heidelberg.
+- 2023\. "Case marking and aspectual relations of Basque verbal noun complements." JENom 10, Nantes.
 
 ---
 
