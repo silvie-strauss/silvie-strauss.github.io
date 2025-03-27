@@ -18,7 +18,7 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Manuscripts  
-- 2021. *Differential Argument Marking. With a Special Focus on Differential Object Marking in Eastern Armenian.* MA thesis.
+- 2021\. *Differential Argument Marking. With a Special Focus on Differential Object Marking in Eastern Armenian.* MA thesis.
 
 
 ---
