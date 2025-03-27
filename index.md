@@ -5,7 +5,7 @@ Although I am very much interested in the diversity of language structures all o
 
 ---
 
-### Category Name 1 
+### Publications 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -20,7 +20,7 @@ Although I am very much interested in the diversity of language structures all o
 
 ---
 
-### Category Name 2
+### Conference presnetations
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
