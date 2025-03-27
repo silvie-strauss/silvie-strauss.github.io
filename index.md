@@ -13,10 +13,10 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Presentations  
-- 2024\. "Interacting semantic preferences? The *belief-intent* alternation in Basque." SLE 57, Helsinki.
-- 2024\. "From knowledge to possibility: structural correlates of semantic change." *Emerging Topics in Typology*, Stockholm.
-- 2023\. "Paradigmatic redundancy in the complement system of Basque." ICHL 26, Heidelberg.
-- 2023\. "Case marking and aspectual relations of Basque verbal noun complements." JENom 10, Nantes.
+- 2024\. "Interacting semantic preferences? The *belief-intent* alternation in Basque." SLE 57, Helsinki. [\[poster\]](/pdf/belief-intent-SLE-Poster.pdf)
+- 2024\. "From knowledge to possibility: structural correlates of semantic change." *Emerging Topics in Typology*, Stockholm. [\[slides\]](/pdf/From-knowledge-to-ability-ETT.pdf)
+- 2023\. "Paradigmatic redundancy in the complement system of Basque." ICHL 26, Heidelberg. [\[slides\]](/pdf/ICHL26.pdf)
+- 2023\. "Case marking and aspectual relations of Basque verbal noun complements." JENom 10, Nantes. [\[slides\]](/pdf/JeNOM.pdf)
 
 ---
 
