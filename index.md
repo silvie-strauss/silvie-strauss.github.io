@@ -14,10 +14,8 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Presentations  
-- 2024\. "Interacting semantic preferences? The *belief-intent* alternation in Basque." SLE 57, Helsinki. [\[poster\]](/pdf/belief-intent-SLE-Poster.pdf)
 - 2024\. "From knowledge to possibility: structural correlates of semantic change." Emerging Topics in Typology, Stockholm. [\[slides\]](/pdf/From-knowledge-to-ability-ETT.pdf)
 - 2024\. "An enclitic coordinator in Christian Urmi NENA." Rotation project workshop of the RU Cyclic Optimization, Leipzig. [\[slides\]](/pdf/Rotationsprojekt.pdf)
-- 2023\. "The slippery slope of knowing how to." Cyclop retreat, Tambach-Dietharz. [\[slides\]](/pdf/know.pdf)
 - 2023\. "Paradigmatic redundancy in the complement system of Basque." ICHL 26, Heidelberg. [\[slides\]](/pdf/ICHL26.pdf)
 - 2023\. "Case marking and aspectual relations of Basque verbal noun complements." JENom 10, Nantes. [\[slides\]](/pdf/JeNOM.pdf)
 
