@@ -3,10 +3,11 @@ title: Silvie Strauß # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   [sɪlvi ʃtʁa͜ʊs]
   <br><br>
-  <br><br>
-  <a href="pdf/CV.pdf">CV</a> 
+  <br>
   <br>
   <font size="2"> silvie.strauss[at]uni-leipzig.de </font>
+  <br>
+  <a href="pdf/CV.pdf">CV</a> 
 
   
 remote_theme: pages-themes/dinky@v0.2.0
