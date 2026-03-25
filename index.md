@@ -14,7 +14,7 @@ Although I am very much interested in the diversity of language structures all o
 ---
 
 ### Presentations  
-- 2025\. "Towards a history of the Basque complementation system." First International Conference on the History of Basque (ICHB1), Vitoria-Gasteiz. [\[poster\]](/pdf/History of the Basque complementation system.pdf)
+- 2025\. "Towards a history of the Basque complementation system." First International Conference on the History of Basque (ICHB1), Vitoria-Gasteiz. [\[slides\]](/pdf/ETT2025_Strauß_slides.pdf)
 - 2025\. "Finding your niche in the complementation system: The distribution of Basque verbal noun complements." Emerging Topics in Typology, Leipzig. [\[slides\]](/pdf/ETT2025_Strauß_slides.pdf)
 - 2024\. "From knowledge to possibility: structural correlates of semantic change." Emerging Topics in Typology, Stockholm. [\[slides\]](/pdf/From-knowledge-to-ability-ETT.pdf)
 - 2024\. "An enclitic coordinator in Christian Urmi NENA." Rotation project workshop of the RU Cyclic Optimization, Leipzig. [\[slides\]](/pdf/Rotationsprojekt.pdf)
